@@ -1,6 +1,6 @@
 ### Helloooooh 🙂👋
 
-<!--
+
 **xaster-Kies/xaster-Kies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript, React, Redux
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Turn to be Lunatic about Efficiency😄
--->
+
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=xaster-Kies&count_private=true&show_icons=true&theme=dark)](https://github.com/xaster-Kies/github-readme-stats)
 
